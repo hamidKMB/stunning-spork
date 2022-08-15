@@ -17,7 +17,13 @@ this documentation is about what i understand from micro-frontend and some code 
 ![image](https://user-images.githubusercontent.com/78806131/184589431-8d32e7d8-b445-4367-b4cf-f80ec06468c6.png)
 
 
+### Error handling
 
+
+## things that i didn't understand
+
+- Module federation
+- Shared NPM
 
 ### Sources You can use :
 
