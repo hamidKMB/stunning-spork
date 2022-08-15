@@ -25,6 +25,12 @@ this documentation is about what i understand from micro-frontend and some code 
 - Module federation
 - Shared NPM
 
+## How to Use code Examples ?
+- clone the branch master
+- cd into each folder
+- npm i
+- npm start
+
 ### Sources You can use :
 
 - https://www.youtube.com/watch?v=lKKsjpH09dU
